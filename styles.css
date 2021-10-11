@@ -53,11 +53,13 @@ p{
     color: #13294B ;
     max-width:1000px ; 
 }
-.header{
+main h2{
     color: #13294B ;
     text-decoration:underline ; 
+    font-size:25px;
 }
-#footerText{
+footer h2{
+    color: #13294B ;
     font-weight:bold ; 
     font-size:18px; 
 }
